@@ -1,0 +1,18 @@
+LÓGICA DO JOGO
+===Geração dos botões do campo
+===Geração das posições das minas
+===Geração dos números adjacentes às minas
+===Implementar ações dos botões ao clicar
+===Lógica de quando o jogador chega à vitória/derrota
+===Implementar mensagem de derrota
+===Implementar mensagem de vitória
+
+LÓGICA DE RANKING
+Implementar cronômetro
+Implementar recebimento do tempo do cronômetro ao fim da partida
+Implementar 
+
+INTERFACE
+Criar ícones para os botoes
+Mapear localização dos botões
+Implementar ações dos botões 
