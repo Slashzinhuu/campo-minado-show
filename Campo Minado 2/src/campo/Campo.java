@@ -16,7 +16,7 @@ import botao.Botao;
 
 /**
  * Classe do tipo JPanel responsavel pela geracao do campo de jogo
- * @author Slashzinhuu
+ * @author Anderson Rodrigues
  *
  */
 @SuppressWarnings("serial")

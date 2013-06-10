@@ -4,7 +4,7 @@ package campo;
  * Classe interna que implementa um par de números
  * que vai ser usado para a nao repeticao de
  * posicoes na geracao da matriz de minas
- * @author Slashzinhuu
+ * @author Anderson Rodrigues
  * 
  */
 public class ParDeNumeros implements Comparable<ParDeNumeros>{

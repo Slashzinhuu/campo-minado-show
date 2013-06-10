@@ -7,6 +7,15 @@ import java.util.GregorianCalendar;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 
+/**
+ * Thread que recebe uma label da interface principal
+ * e a atualiza a fim de mostrar o contador do tempo
+ * decorrido da partida 
+ * 
+ * @author Anderson Rodrigues
+ * Adaptado de: https://code.google.com/p/controle-academico-2012-2/source/browse/Controle+Academico+-+Curso+Java+PD/src/controle/RelogioThread.java?r=27
+ * 
+ */
 public class RelogioThread extends Thread{
 
 	JLabel label;
