@@ -1,4 +1,4 @@
-package campo;
+package main;
 
 import java.awt.EventQueue;
 
@@ -12,6 +12,11 @@ import javax.swing.LayoutStyle.ComponentPlacement;
 
 import javax.swing.JLabel;
 import javax.swing.JButton;
+
+import relogio.RelogioThread;
+
+import campo.Campo;
+
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 
