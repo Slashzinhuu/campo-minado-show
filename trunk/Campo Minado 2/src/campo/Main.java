@@ -15,6 +15,12 @@ import javax.swing.JButton;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 
+/**
+ * Classe principal do jogo Campo Minado.
+ * Cria a interface e chama os metodos de geracao do campo.
+ * @author Anderson Rodrigues
+ *
+ */
 @SuppressWarnings("serial")
 public class Main extends JFrame {
 

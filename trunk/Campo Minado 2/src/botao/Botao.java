@@ -11,6 +11,12 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.ListIterator;
 
+/**
+ * Classe que simula um botao do campo
+ * minado com as acoes do clique do mouse.
+ * @author Anderson Rodrigues
+ *
+ */
 @SuppressWarnings("serial")
 public class Botao extends JButton implements Runnable{
 
@@ -19,7 +25,6 @@ public class Botao extends JButton implements Runnable{
 	private boolean discovered;
 	private List<Botao> adjacentes;
 	private boolean perdeu;
-	
 	
 	public Botao() {
 		super("");
