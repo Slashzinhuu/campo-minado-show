@@ -1,4 +1,4 @@
-package campo;
+package relogio;
 
 import java.awt.Container;
 import java.util.Calendar;
