@@ -1,18 +1,27 @@
-LÓGICA DO JOGO
-===Geração dos botões do campo
-===Geração das posições das minas
-===Geração dos números adjacentes às minas
-===Implementar ações dos botões ao clicar
-===Lógica de quando o jogador chega à vitória/derrota
-===Implementar mensagem de derrota
-===Implementar mensagem de vitória
+LOGICA DO JOGO 
+[x] Geracao dos botoes do campo 
+[x] Geracao das posicoes das minas
+[x] Geracao dos numeros adjacentes as minas
+[x] Implementar acoes dos botoes ao clicar
+[x] Implementar acao das bandeiras
+[ ] Logica de quando o jogador chega a vitoria/derrota
+[ ] Implementar mensagem de derrota
+[ ] Implementar mensagem de vitoria
+[ ] Implementar niveis de dificuldade
+[ ] 
 
-LÓGICA DE RANKING
-Implementar cronômetro
-Implementar recebimento do tempo do cronômetro ao fim da partida
-Implementar 
+LOGICA DE RANKING
+[x] Implementar cronometro
+[ ] Implementar recebimento do tempo do cronometro ao fim da partida
+[ ] Implementar lista de recordes
+[ ] Implementar diferenciacao de nivel de dificuldade para cada recorde
 
 INTERFACE
-Criar ícones para os botoes
-Mapear localização dos botões
-Implementar ações dos botões 
+[x] Criar icones para os botoes
+[x] Mapear localizacao dos botoes
+[x] Implementar acoes dos botoes
+[ ] Implementar menu de inicio do jogo
+[ ] Implementar exibicao de recordes
+[ ] Implementar exibicao de mensagem de vitoria
+[ ] Implementar exibicao de mensagem de derrota
+[ ] Implementar exibicao de mensagem de novo recorde
